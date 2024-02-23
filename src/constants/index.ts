@@ -26,11 +26,13 @@ import {
   docker,
   meta,
   starbucks,
+  react,
   tesla,
   shopify,
   fyp,
   jyu,
   jobit,
+  blockchain,
   threejs,
 } from "../assets";
 
@@ -126,28 +128,27 @@ const technologies: TTechnology[] = [
 const experiences: TExperience[] = [
   {
     title: "React.js Developer",
-    companyName: "Starbucks",
-    icon: starbucks,
+    companyName: "",
+    icon: react,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Sep 2023 - Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Collaborating with cross-functional developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {
-    title: "React Native Developer",
-    companyName: "Tesla",
-    icon: tesla,
+    title: "Blockchain Developer",
+    companyName: "",
+    icon: blockchain,
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed a decentralized lending and borrowing platform on Ethereum, leveraging smart contracts for secure and autonomous market operations.",
+      "Integrated blockchain functionality with a React.js-based web application, enabling seamless user interactions with decentralized financial services directly from the web interface.",
+      "Utilized Web3.js/Ethers.js libraries to connect the web application with blockchain networks, enabling users to perform secure transactions, manage their assets, and interact with smart contracts",   
     ],
   },
   {

@@ -46,7 +46,7 @@ export const config: TConfig = {
   },
   hero: {
     name: "Nabeel Javed",
-    p: ["I develop interfaces, web applications", "and blockchain solutions."],
+    p: ["I develop interfaces, web applications", "and blockchain application."],
   },
   contact: {
     p: "Get in touch",
