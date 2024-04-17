@@ -33,7 +33,10 @@ import jobit from "./jobit.png";
 // import tripguide from "./tripguide.png";
 import fyp from "./fyp.png";
 import jyu from "./jyu.png";
+import TS from "./TS.png";
+import Hashlock from "./Hashlock.png";
 export {
+  Hashlock,
   logo,
   backend,
   creator,
@@ -65,4 +68,5 @@ export {
   carrent,
   jobit,
   fyp,
+  TS,
 };

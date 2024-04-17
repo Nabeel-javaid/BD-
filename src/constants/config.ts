@@ -46,7 +46,7 @@ export const config: TConfig = {
   },
   hero: {
     name: "Nabeel Javed",
-    p: ["I develop interfaces, web applications", "and blockchain application."],
+    p: ["I audit interfaces, blockchain application", "and make sure they are secure"],
   },
   contact: {
     p: "Get in touch",
@@ -67,11 +67,10 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Next, Node.js, and
-      solidity. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `I am an experienced Smart Contract Auditor, proficient in Solidity and blockchain technology. I specialize in
+      identifying vulnerabilities, enhancing security, and ensuring compliance with industry standards. My
+      commitment lies in fortifying decentralized applications through meticulous audits and contributing to secure
+      blockchain innovation.`,
     },
     experience: {
       p: "What I have done so far",
@@ -83,11 +82,11 @@ export const config: TConfig = {
     },
     works: {
       p: "My work",
-      h2: "Projects.",
-      content: `Following projects showcases my skills and experience through
+      h2: "Private Audits.",
+      content: `Following project audits showcases my skills and experience through
     real-world examples of my work. Each project is briefly described with
-    links to code repositories. It reflects my
-    ability to solve complex problems, work with different technologies,
+    links to code or website. It reflects my
+    ability to audit complex protocols, work with different technologies,
     and manage projects effectively.`,
     },
   },
