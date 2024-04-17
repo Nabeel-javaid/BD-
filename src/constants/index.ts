@@ -24,7 +24,6 @@ import {
   git,
   figma,
   docker,
-  meta,
   TS,
   Hashlock,
   fyp,
